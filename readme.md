@@ -4,17 +4,17 @@ Bem-vindo ao meu portfolio pessoal! Aqui você encontrará uma coleção dos meu
 
 ## Projetos Destacados
 
-### Projeto 1: [Nome do Projeto]
+### Projeto 1: [LORD OF THE RINGS]
 
-Breve descrição do projeto e suas principais características.
+Este projeto é uma página web dedicada aos personagens da trilogia "O Senhor dos Anéis", obra de J. R. R. Tolkien. A página apresenta uma sinopse e uma breve descrição de alguns dos principais personagens, utilizando um layout responsivo e estilizado.
 
-### Projeto 2: [Nome do Projeto]
+<!-- ### Projeto 2: [Nome do Projeto] -->
 
-Breve descrição do projeto e suas principais características.
+<!-- Breve descrição do projeto e suas principais características. -->
 
-### Projeto 3: [Nome do Projeto]
+<!-- ### Projeto 3: [Nome do Projeto]
 
-Breve descrição do projeto e suas principais características.
+Breve descrição do projeto e suas principais características. -->
 
 ## Habilidades Técnicas
 
