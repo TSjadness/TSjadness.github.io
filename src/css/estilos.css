@@ -39,8 +39,8 @@ body {
   flex-direction: row;
 }
 .cabecalho a:hover .logo {
-  color: #a38701;
-  border: 2px solid #a38701;
+  color: #f59e0b;
+  border: 2px solid #f59e0b;
 }
 
 .cabecalho .menu li a {
@@ -51,7 +51,7 @@ body {
 }
 
 .cabecalho .menu li a:hover {
-  background-color: #a38701;
+  background-color: #f59e0b;
   color: #fff;
   border-radius: 40px;
 }
