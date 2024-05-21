@@ -8,9 +8,9 @@ Bem-vindo ao meu portfolio pessoal! Aqui você encontrará uma coleção dos meu
 
 Este projeto é uma página web dedicada aos personagens da trilogia "O Senhor dos Anéis", obra de J. R. R. Tolkien. A página apresenta uma sinopse e uma breve descrição de alguns dos principais personagens, utilizando um layout responsivo e estilizado.
 
-<!-- ### Projeto 2: [Nome do Projeto] -->
+### Projeto 2: [Demon Slayer]
 
-<!-- Breve descrição do projeto e suas principais características. -->
+Este é um projeto web desenvolvido para mostrar personagens da série Demon Slayer (Kimetsu no Yaiba). A aplicação permite ao usuário selecionar um personagem e visualizar informações detalhadas sobre ele.
 
 <!-- ### Projeto 3: [Nome do Projeto]
 
